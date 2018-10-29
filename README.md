@@ -1,4 +1,4 @@
-# xteam-exercise-2: https://github.com/<UserName>/<GitHubRepositoryName>
+# xteam-exercise-2: https://github.com/karm-wisc/ideal-tribble/
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
@@ -7,13 +7,15 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:       name 1:
-       * GitHub username 2:       name 2:
-       * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
-       * GitHub username 5:       name 5:
+       * GitHub username 1: karm-wisc       name 1: Karm Nagi
+       * GitHub username 2: snehapolishetty name 2: Sneha Polishetty
+       * GitHub username 3: repelayo        name 3: Raul Pelayo
+       * GitHub username 4: Colin-XYN       name 4: Colin Xu
+       * GitHub username 5:                 name 5:
    * When did you complete this exercise? 
+    We completed this exercise Monday 10/29 at 3:00.
    * How long did it take your team to complete this exercise? 
+    It took us about an hour to complete this exercise.
 
 ## Table of Contents
 
