@@ -1,4 +1,4 @@
-# X-Team 36 Food "Table"
+# X-Team NN Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -28,14 +28,13 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
  Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
-
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+When raising a event, event holders usually need to prepare the food for everyone. However, the lack of communication with the participants and the holders, some food preferences may not be fulfilled, it is also very hard for the preparation of the food. We want to design a program to fix it. First we let the participants to enter their first and last names and the preferences (allegies, vegans or not etc.). We will have serveral food options,and we will develop a method to match the preferences they choose. Then we will store their food choices to hashtable, their first and last name would be the key and the food choices they have as value. The event holder would know how many each kind of food they need to prepare, the participants can have the food that fullfill their preferences. 
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-Our Project name is: Food "Table"
+
+
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
