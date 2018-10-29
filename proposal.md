@@ -51,9 +51,9 @@ Implement a simple graphic user interface that would preferably work on mobile d
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
 HashTable.java - Contain our own implementation of a hash table.
-Node.java - Contain information on individual attending event
-Main.java - Executes the entire program
-UserInterface.java - Contains code to display user interface
+Node.java - Contain information on individual attending event.
+Main.java - Executes the entire program.
+UserInterface.java - Contains code to display user interface.
 
 
 
