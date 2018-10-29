@@ -13,15 +13,15 @@ and missed deadlines.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-Communicate with each other about our progress daily, tell everybody about your status.
-Use massenger as a tool to do so, also meet up when necessary.
+
+
 
 ## How will will communicate difficulties with a task assigned to us
 
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+Through facebook messenger, we can periodically keep checks onto one another. If it seems someone is falling behind one or more memebers can offer assistance to catch the member up to speed.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
