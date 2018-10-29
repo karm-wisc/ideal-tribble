@@ -15,12 +15,10 @@
        * name 3: Raul Pelayo
        * GitHub username 4: Colin-XYN       
        * name 4: Colin Xu
-       * GitHub username 5:                 
-       * name 5:
    * When did you complete this exercise? 
     We completed this exercise Monday 10/29 at 3:00.
    * How long did it take your team to complete this exercise? 
-    It took us about an hour to complete this exercise.
+    It took us about 2 hours to complete this exercise.
 
 ## Table of Contents
 
