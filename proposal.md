@@ -40,7 +40,7 @@ When raising a event, event holders usually need to prepare the food for everyon
 
 
 
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+3. Input: The input data for our program will include the name of each participant and their respective dietary restrictions. We will import the name of the of the person as a string, and the input of the dietary restriction will be from their selection they choose on the registration form. For example, name would be "Alex Smith" and selection 3 which would point to Vegan.
 
 
 
