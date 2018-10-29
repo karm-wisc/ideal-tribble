@@ -41,12 +41,14 @@ When raising a event, event holders usually need to prepare the food for everyon
 
 
 3. Input: 
+
 When creating the event, the input data for our program will include the name of each participant and their respective dietary restrictions. We will import the name of the of the person as a string, and the input of the dietary restriction will be from their selection they choose on the registration form. For example, name would be "Alex Smith" and selection 3 which would point to Vegan. You will be able to select multiple food restrictions too.
 
 During the event, the input data for the program will include just the name of each participant. For example, just the name "Alex Smith"
 
 
 4. User Interface:  
+
 Implement a simple graphic user interface that would preferably work on mobile devices. The UI will act as a registration form. The UI will have users click on the check box options corresponding to sets of questions. An initial text box will be used for the user to input their name.
 
 
