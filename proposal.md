@@ -28,7 +28,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
  Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
-When raising a event, event holders usually need to prepare the food for everyone. However, the lack of communication with the participants and the holders, some food preferences may not be fulfilled, it is also very hard for the preparation of the food. We want to design a program to fix it. First we let the participants to enter their first and last names and the preferences (allegies, vegans or not etc.). We will have serveral food options,and we will develop a method to match the preferences they choose. Then we will store their food choices to hashtable, their first and last name would be the key and the food choices they have as value. The event holder would know how many each kind of food they need to prepare, the participants can have the food that fullfill their preferences. 
+
+Briefly describe a problem that your team would like to solve.  
+Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
@@ -40,12 +42,12 @@ When raising a event, event holders usually need to prepare the food for everyon
 
 
 
-3. Input: The input data for our program will include the name of each participant and their respective dietary restrictions. We will import the name of the of the person as a string, and the input of the dietary restriction will be from their selection they choose on the registration form. For example, name would be "Alex Smith" and selection 3 which would point to Vegan.
+3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
 
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+4. User Interface:  
+Implement a simple graphic user interface that would preferably work on mobile devices. The UI will act as a registration form. The UI will have users click on the check box options corresponding to sets of questions. An initial text box will be used for the user to input their name.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
