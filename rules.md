@@ -16,8 +16,7 @@ We will first list down all tasks needed to complete and then each person will c
 
 
 ## How we will communicate difficulties with a task assigned to us
-
-
+If a difficulty is encountered, we will communicate about it on facebook messenger and discuss solutions as a team. If needed, we will meet up to help solve the difficulty. When it comes to difficulties in a team setting, honesty and confrontation help ensure that the difficulty is quickly resolved and the team can move on.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
