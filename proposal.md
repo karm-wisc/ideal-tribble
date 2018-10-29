@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 36 Food "Table"
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -35,18 +35,18 @@ Describe at a high level a program that could solve that problem.
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
-
+Our Project name is: Food "Table"
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
 
 
-3. Input: The input data for our program will include the name of the each participant and their respective dietary restriction. We will import the name of the person as a string, and the input of the dietary restriction will be from their selection they chose on the registration form. For example, name would be "Alex Smith" and selection would be selection 3 which points to vegan.
+3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-Implement a simple graphic user interface that would preferably work on mobile devices. 
+
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
