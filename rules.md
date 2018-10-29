@@ -15,7 +15,7 @@ We will first list down all tasks needed to complete and then each person will c
 
 
 
-## How will will communicate difficulties with a task assigned to us
+## How we will communicate difficulties with a task assigned to us
 
 
 
