@@ -19,7 +19,7 @@ We will use messenger as a tool to do the follow-up and meet if it is necessary.
 If a difficulty is encountered, we will communicate about it on facebook messenger and discuss solutions as a team. If needed, we will meet up to help solve the difficulty. When it comes to difficulties in a team setting, honesty and confrontation help ensure that the difficulty is quickly resolved and the team can move on.
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+Through facebook messenger we can periodically keep checks on one another. If it seems a member has fallen behind, one or more members can offer assistance to catch up that member before the deadline is missed.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
