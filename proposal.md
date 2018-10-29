@@ -1,4 +1,4 @@
-# X-Team 36 Food Table
+# X-Team 36 Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -49,7 +49,10 @@ When creating the event, the input data for our program will include the name of
 Implement a simple graphic user interface that would preferably work on mobile devices. The UI will act as a registration form. The UI will have users click on the check box options corresponding to sets of questions. An initial text box will be used for the user to input their name.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+HashTable.java - Contain our own implementation of a hash table.
+Node.java - Contain information on individual attending event
+Main.java - Executes the entire program
+UserInterface.java - Contains code to display user interface
 
 Name each interface or class and briefly describe its function or purpose.
 
