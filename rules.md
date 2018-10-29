@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 36 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -9,8 +9,7 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
-
+We will first list down all tasks needed to complete and then each person will choose a task they are most comfortable and familiar with. If there are any remaiming tasks, we will discuss as a group and share opinions regarding who will complete the remaining tasks, while taking into account of everyone's workload. 
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
