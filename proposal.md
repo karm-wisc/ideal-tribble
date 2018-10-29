@@ -43,7 +43,7 @@ Describe at a high level a program that could solve that problem.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
+ The input data for our program will include the name of the each participant and their respective dietary restriction. We will import the name of the person as a string, and the input of the dietary restriction will be from their selection they chose on the registration form.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
