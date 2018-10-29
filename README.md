@@ -7,11 +7,16 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: karm-wisc       name 1: Karm Nagi
-       * GitHub username 2: snehapolishetty name 2: Sneha Polishetty
-       * GitHub username 3: repelayo        name 3: Raul Pelayo
-       * GitHub username 4: Colin-XYN       name 4: Colin Xu
-       * GitHub username 5:                 name 5:
+       * GitHub username 1: karm-wisc       
+       * name 1: Karm Nagi
+       * GitHub username 2: snehapolishetty 
+       * name 2: Sneha Polishetty
+       * GitHub username 3: repelayo        
+       * name 3: Raul Pelayo
+       * GitHub username 4: Colin-XYN       
+       * name 4: Colin Xu
+       * GitHub username 5:                 
+       * name 5:
    * When did you complete this exercise? 
     We completed this exercise Monday 10/29 at 3:00.
    * How long did it take your team to complete this exercise? 
