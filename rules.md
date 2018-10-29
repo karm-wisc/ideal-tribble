@@ -12,14 +12,14 @@ and missed deadlines.
 We will first list down all tasks needed to complete and then each person will choose a task they are most comfortable and familiar with. If there are any remaiming tasks, we will discuss as a group and share opinions regarding who will complete the remaining tasks, while taking into account of everyone's workload. 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
-
+Once the tasks are assign we should report our progress daily, and answer to team members if they are asking. Tell everyone on the team about your status
+We will use messenger as a tool to do the follow-up and meet if it is necessary.
 
 ## How we will communicate difficulties with a task assigned to us
 If a difficulty is encountered, we will communicate about it on facebook messenger and discuss solutions as a team. If needed, we will meet up to help solve the difficulty. When it comes to difficulties in a team setting, honesty and confrontation help ensure that the difficulty is quickly resolved and the team can move on.
 
 ## How we will back up each other to ensure that deadlines are not missed
-Through facebook messenger we can periodically keep checks on one another. If it seems a member has fallen behind, one or more members can offer assistance to ensure that part of the the project meets the deadline.
+
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
